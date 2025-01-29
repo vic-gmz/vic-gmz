@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **mobile apps**
+- 🔭 I’m currently working on **CI/CD using github actions and deploying apps with docker on a VPS**
 
 - 👨‍💻 All of my projects are available at [https://bebidev.netlify.app/](https://bebidev.netlify.app/)
 
