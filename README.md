@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor Gomez</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vic-gmz&label=Profile%20views&color=0e75b6&style=flat" alt="vic-gmz" /> </p>
-
 - 🔭 I’m currently working on **CI/CD using github actions and deploying apps with docker on a VPS**
 
 - 👨‍💻 All of my projects are available at [https://bebidev.netlify.app/](https://bebidev.netlify.app/)
